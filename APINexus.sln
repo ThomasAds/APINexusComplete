@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APINexus.API", "APINexus.API\APINexus.API.csproj", "{8F3DCB17-1F11-424A-9B8A-F955B99D8453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APINexus.Services", "APINexus.Services\APINexus.Services.csproj", "{E403BA2E-C664-41B3-9B10-96E2C696A546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APINexus.Models", "APINexus.Models\APINexus.Models.csproj", "{A6257CAD-D292-4160-A6F3-28420B673790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APINexus.Data", "APINexus.Data\APINexus.Data.csproj", "{D3E80A62-A465-4545-80C5-4CB52905C65C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F3DCB17-1F11-424A-9B8A-F955B99D8453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3DCB17-1F11-424A-9B8A-F955B99D8453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3DCB17-1F11-424A-9B8A-F955B99D8453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3DCB17-1F11-424A-9B8A-F955B99D8453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E403BA2E-C664-41B3-9B10-96E2C696A546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E403BA2E-C664-41B3-9B10-96E2C696A546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E403BA2E-C664-41B3-9B10-96E2C696A546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E403BA2E-C664-41B3-9B10-96E2C696A546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6257CAD-D292-4160-A6F3-28420B673790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6257CAD-D292-4160-A6F3-28420B673790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6257CAD-D292-4160-A6F3-28420B673790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6257CAD-D292-4160-A6F3-28420B673790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E80A62-A465-4545-80C5-4CB52905C65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E80A62-A465-4545-80C5-4CB52905C65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E80A62-A465-4545-80C5-4CB52905C65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E80A62-A465-4545-80C5-4CB52905C65C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
